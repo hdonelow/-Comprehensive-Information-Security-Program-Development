@@ -736,16 +736,194 @@ Incidents are classified into the following categories:
 <details>
 <summary><strong>Documentation_Repository:</strong> Contains a structure for organizing and storing all information security documentation.</summary>
 
-Contains a structure for organizing and storing all information security documentation.
+# Information Security Documentation Repository
+
+## Policies and Procedures
+
+- **Access Control Policy:**
+  - Describes the rules and procedures governing access to systems and data.
+  - Includes access request forms and approval processes.
+
+- **Data Classification Policy:**
+  - Outlines the criteria and procedures for classifying and handling different types of data.
+  - Provides examples and guidelines for data classification.
+
+- **Incident Response Plan:**
+  - Detailed plan outlining the organization's response to security incidents.
+  - Includes incident categorization, escalation procedures, and communication protocols.
+
+- **Password Policy:**
+  - Establishes guidelines for creating and managing passwords to ensure security.
+  - Includes password complexity requirements and instructions for regular updates.
+
+- **Network Security Policy:**
+  - Defines rules and measures to secure the organization's network infrastructure.
+  - Includes firewall configurations, intrusion detection/prevention guidelines, and network segmentation.
+
+- **Physical Security Policy:**
+  - Addresses measures to protect physical assets and facilities.
+  - Includes access control for physical premises, surveillance policies, and security personnel procedures.
+
+- **Acceptable Use Policy:**
+  - Defines acceptable and unacceptable use of organizational resources.
+  - Includes guidelines for the use of company-owned devices, internet usage, and acceptable software.
+
+## Risk Assessments
+
+- **Risk Assessment Reports:**
+  - Contains reports detailing identified vulnerabilities, threats, and risk mitigation strategies.
+  - Includes executive summaries and technical details for different stakeholders.
+
+- **Risk Treatment Plans:**
+  - Documents the organization's approach to mitigating identified risks.
+  - Includes timelines, responsible parties, and progress tracking.
+
+## Training and Awareness
+
+- **Training Modules:**
+  - Contains interactive training modules for employee awareness on information security.
+  - Includes quizzes, real-life scenarios, and resources for further learning.
+
+- **Awareness Campaigns:**
+  - Documents plans and materials for awareness campaigns.
+  - Includes posters, email templates, and announcements for company-wide awareness initiatives.
+
+## Incident Response
+
+- **Incident Reports:**
+  - Detailed reports on security incidents, including their causes and responses.
+  - Includes timelines, impact assessments, and lessons learned.
+
+- **Post-Incident Reviews:**
+  - Documentation of reviews conducted after security incidents for continuous improvement.
+  - Includes recommendations for process enhancements and preventive measures.
+
+## Tools and Resources
+
+- **Tool Documentation:**
+  - Instructions and guidelines for using various security tools.
+  - Includes installation guides, best practices, and troubleshooting tips.
+
+- **External Support Contacts:**
+  - Contact information for external resources that can provide support during incidents.
+  - Includes incident response service providers, legal contacts, and forensics experts.
+
+## Compliance and Audits
+
+- **Compliance Checklists:**
+  - Documents outlining compliance requirements and checklists for audits.
+  - Includes regulatory requirements, industry standards, and internal policies.
+
+- **Audit Reports:**
+  - Summaries and detailed reports of security audits conducted.
+  - Includes findings, recommendations, and action plans for improvement.
+
+## Communication
+
+- **Communication Plans:**
+  - Outlines plans for internal and external communication during incidents.
+  - Includes predefined communication templates and escalation matrices.
+
+- **Stakeholder Communication:**
+  - Templates and guidelines for communicating with stakeholders.
+  - Includes communication channels, frequency, and key messages.
+
+## Templates and Forms
+
+- **Security Incident Report Template:**
+  - Standardized template for reporting security incidents.
+  - Includes sections for incident details, impact assessment, and corrective actions.
+
+- **Access Request Form:**
+  - Form for employees to request access to specific systems or data.
+  - Includes approval workflows and access revocation procedures.
+
+## Legal and Regulatory
+
+- **Legal Compliance Documents:**
+  - Documentation related to legal requirements and compliance.
+  - Includes privacy policies, data protection agreements, and legal opinions.
+
+- **Regulatory Compliance Reports:**
+  - Reports on compliance with industry and governmental regulations.
+  - Includes evidence of compliance, such as audit reports and self-assessments.
+
+
 
 </details>
 
 ## Results
 
 <details>
-<summary><strong>Results.md:</strong> Highlights the achieved results and key metrics.</summary>
+<summary><strong>Results:</strong> Highlights the achieved results and key metrics.</summary>
 
-Highlights the achieved results and key metrics.
+# Information Security Documentation Repository
+
+## Results and Key Metrics
+
+- **Security Posture Improvements:**
+  - Documented reports on the overall improvement in the organization's security posture.
+  - Includes key metrics such as:
+    - Reduced vulnerabilities by X% over the last quarter through regular vulnerability assessments.
+    - Achieved an average incident resolution time of Y hours, enhancing incident response efficiency.
+    - Enhanced user compliance measured through quarterly security audits, with a focus on access controls and data protection measures.
+
+- **Incident Response Effectiveness:**
+  - Reports showcasing the effectiveness of the incident response plan in addressing and mitigating security incidents.
+  - Includes key metrics such as:
+    - Average response time to security incidents, with a target of responding within Z minutes/hours.
+    - Resolution rates for different types of incidents, highlighting successful containment and eradication.
+    - Number of incidents successfully contained or prevented, demonstrating proactive security measures.
+
+- **User Awareness Metrics:**
+  - Metrics demonstrating the impact of cybersecurity awareness training and campaigns.
+  - Includes key metrics such as:
+    - Pre-and post-training assessment scores, indicating the improvement in user knowledge.
+    - User feedback and satisfaction scores regarding training programs, with a focus on continuous improvement.
+    - Quarterly phishing resilience rates and trends over time, reflecting the effectiveness of awareness initiatives.
+
+- **Phishing Simulation Results:**
+  - Data on the outcomes of simulated phishing exercises, illustrating user resilience.
+  - Includes key metrics such as:
+    - Click-through rates and trends over multiple simulations, measuring user susceptibility.
+    - User reporting rates and effectiveness in identifying phishing attempts, emphasizing the importance of reporting culture.
+    - Impact on reducing successful phishing incidents, quantifying the success of training efforts.
+
+- **Access Control and Password Policy Compliance:**
+  - Metrics evaluating adherence to access control and password policies.
+  - Includes key metrics such as:
+    - User compliance rates with access control policies, ensuring proper data access management.
+    - Password change frequencies and adherence to password complexity requirements, promoting strong authentication practices.
+    - Average time for access approval and revocation, streamlining access control processes.
+
+- **Network and System Security Metrics:**
+  - Reports on the effectiveness of network and system security measures.
+  - Includes key metrics such as:
+    - Results from vulnerability scanning, highlighting critical vulnerabilities addressed and providing a risk reduction measure.
+    - Success rates of intrusion detection/prevention systems, ensuring timely identification and prevention of potential threats.
+    - Network performance metrics to ensure security measures do not impact operational efficiency, balancing security and functionality.
+
+- **Compliance Status:**
+  - Summarizes the organization's compliance status with relevant regulations and standards.
+  - Includes key metrics such as:
+    - Results of external audits and compliance checklists, showcasing the organization's commitment to regulatory requirements.
+    - Timely resolution of outstanding compliance issues, demonstrating responsiveness to compliance challenges.
+    - Continuous monitoring metrics to ensure ongoing compliance, establishing a proactive compliance posture.
+
+- **Training Effectiveness:**
+  - Assessment of the effectiveness of the cybersecurity awareness training program.
+  - Includes key metrics such as:
+    - Training completion rates and trends, ensuring a high level of participation among employees.
+    - Quiz scores and improvement over time, indicating the retention of security knowledge.
+    - User feedback and participation rates in additional learning resources, fostering a culture of continuous learning.
+
+- **Continuous Improvement Initiatives:**
+  - Documents ongoing initiatives for continuous improvement in information security.
+  - Includes key metrics such as:
+    - Progress updates on action plans derived from incident reviews, emphasizing accountability and progress tracking.
+    - Effectiveness of implemented security enhancements, measured through post-implementation assessments.
+    - Feedback from stakeholders on the impact of continuous improvement initiatives, ensuring alignment with organizational goals.
+
 
 </details>
 
